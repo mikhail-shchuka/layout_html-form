@@ -1,1 +1,10 @@
 /* styles go here */
+
+label {
+  display: inline-block;
+  margin-top: 10px
+}
+
+fieldset {
+  margin: 20px 0
+}
