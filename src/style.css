@@ -1,15 +1,15 @@
 /* styles go here */
 
-label {
+.form-field {
   display: inline-block;
   margin-bottom: 10px;
 }
 
-label:last-of-type {
+.form-field:last-of-type {
   display: inline-block;
   margin-bottom: 0;
 }
 
-fieldset {
+.field-list {
   margin-bottom: 20px;
 }
